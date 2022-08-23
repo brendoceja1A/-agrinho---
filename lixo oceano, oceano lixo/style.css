@@ -3,7 +3,7 @@
 }
 
 .principal{
-	background: #;
+	background: #121212;
 	padding: 30px;
 }
 
@@ -17,6 +17,7 @@
 
 p {
 	text-align: center;
+	color:#FFFFFF;
 }
 
 #missao {
@@ -24,15 +25,15 @@ p {
 }
 
 em strong {
-	color: #FF0000;
+	color: #8899AA;
 }
 
 .itens {
-	font-style: italic
+	font-style: initial;
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: #121212;
 	padding: 20px;
 }
 
